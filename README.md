@@ -10,6 +10,7 @@
 - [用SIP建立会议的几种方式](http://www.cs.columbia.edu/sip/talks/sip-conferencing.pdf)
 - [音视频实时通讯之UDP vs TCP](http://123.57.145.98/?p=29)
 - [FEC/QOS中的NACK方案](http://www.mediapro.cc/%E5%8E%9F%E5%88%9Bfecqos%E4%B8%AD%E7%9A%84nack%E6%96%B9%E6%A1%88/)
+- [RTP抗丢包方案概述](http://123.57.145.98/?p=47)
 
 ## Link
 - [七牛连麦设计文档](https://developer.qiniu.com/pili/manual/1668/even-the-design-documents)
