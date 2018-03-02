@@ -6,6 +6,7 @@
 - [TCP/IP详解 - 第17章·TCP：传输控制协议](http://docs.52im.net/extend/docs/book/tcpip/vol1/17/)
 - [TCP/IP详解 - 第18章·TCP连接的建立与终止](http://docs.52im.net/extend/docs/book/tcpip/vol1/18/)
 - [TCP/IP详解 - 第21章·TCP的超时与重传](http://docs.52im.net/extend/docs/book/tcpip/vol1/21/)
+- [TCP协议 - 三次握手与四次挥手原理详解](http://www.52im.net/thread-258-1-1.html)
 
 ## 音频
 
