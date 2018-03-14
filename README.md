@@ -9,6 +9,7 @@
 - [TCP协议 - 三次握手与四次挥手原理详解](http://www.52im.net/thread-258-1-1.html)
 
 ## 音频
+- [音频混音算法](http://www.vttoth.com/CMS/index.php/technical-notes/68)
 
 ## 视频
 
